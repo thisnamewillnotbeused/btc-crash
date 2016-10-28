@@ -1,2 +1,2 @@
 # btc-crash
-Github development repo for the btc-crash website
+Github development repo for the btc-crash (still in development) <a href='http://btc-crash.ml'>Website.</a>. BTC-Crash is a Crash Gambling site that uses Bitcoin, as well as many other altcoins. What is crash? Crash is very simple. You place a bet for the next round, and then a graph begins to steadily increase from 0.9x. This multiplier has a variable increase rate per second. Here's the interesting part- The graph can <i>"Crash"</i> at any moment, and if you do not take out your bet before this, you lose it.
