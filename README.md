@@ -18,3 +18,4 @@ You can contribute via donations to any of our Official Dev Wallets. These walle
 
 <h1>Can I clone this and run my own site?</h1>
 Nope. This open-source software on a site where people share projects with each other, cannot be cloned because we said so ;)
+In all seriousness, we wish taht you do clone the site for testing and development purposes but do not wish for you to try to make a replica of our site on the web.
