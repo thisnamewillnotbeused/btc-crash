@@ -1,3 +1,5 @@
+
+<?php
 <html>
 <head>
 <title>
@@ -6,10 +8,10 @@ BTC-Crash Game
 </head>
 
 
-<?php
-$mult_increase=rand(0.10, 0.20);
+$mult_increase=rand (0.10*100, 0.20*100) / 100;
 
-echo "The multiplier increase per second for this game is... <b>$mult_increase</b> per second!";
+echo "The multiplier increase per second for this game is... $mult_increase per second!";
+  ?>
 
 
 //TODO: add live graph to show multiplier and time elapsed
